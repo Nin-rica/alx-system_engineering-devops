@@ -1,0 +1,9 @@
+#!/bin/bash
+List all files in current directory in long format
+ls -la
+Change directory to parent of current working directory and list all files in long format
+cd ..
+ls -la
+Change directory to /boot and list all files in long format
+cd /boot
+ls -la
